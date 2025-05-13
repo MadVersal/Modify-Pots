@@ -42,6 +42,6 @@ class Loader extends PluginBase implements Listener{
             $item->onActivate($player, $player->getDirectionVector());
             $item->setCount($item->getCount() - 1);
             $player->getInventory()->setItemInHand($item);
-        }
+        }    
     }
 }
