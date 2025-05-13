@@ -1,0 +1,4 @@
+name: ModifyPots
+author: MadVersal
+main: MadVersal\ModifyPots\Loader
+api: 5.0.0
